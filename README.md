@@ -1,5 +1,5 @@
-golden ratio tools for maya. for the love of phi...
+# for the love ❤ of phi φ
+
+### golden ratio tools for maya.
 * golden spiral
 * golden ratio ruler
-
-φφφ
