@@ -1,11 +1,11 @@
 # for the love ❤ of phi φ
 
 ### golden ratio tools for maya.
-* golden spiral
-* golden ratio ruler
+1. golden spiral
+2. divine proportion caliper
 
-
-### todo
+ ----
+### todo.
 * fix default transform values on spiral
 * implement flip attribute on ruler
-* consider locking/hiding some attributes
+* consider locking/hiding some channels
